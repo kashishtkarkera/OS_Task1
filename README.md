@@ -168,6 +168,5 @@ This assignment provides practical understanding of:
 ## 👩‍💻 Author
 
 **Kashish T Karkera**
-NNM24IS102
 
 *Operating Systems — Thread-Based Programming Assignment*

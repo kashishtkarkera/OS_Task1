@@ -88,5 +88,37 @@ For matrix multiplication:
 
 ```text
 Matrix A (105 × 105) × Matrix B (105 × 105)
+## 🎬 Matrix Multiplication Animation
+
+The animation visually demonstrates the progress of the threaded matrix multiplication.
+
+- **Matrix A** represents the first input matrix.
+- **Matrix B** represents the second input matrix.
+- **Matrix C** displays the result as computations are completed.
+- **Row and column indicators** show the current computation.
+- The animation is generated using **Matplotlib Animation**.
+
+### 🎥 Animation
+
+![Matrix Multiplication Animation](matrix_multiplication.gif)
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**
+- **Python `threading`**
+- **NumPy**
+- **Matplotlib**
+- **Matplotlib Animation**
+
+---
+
+## ▶️ How to Run
+
+### 1. Install the Required Libraries
+
+```bash
+pip install numpy matplotlib
                     ↓
               Matrix C (105 × 105)
